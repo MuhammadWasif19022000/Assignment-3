@@ -1,0 +1,17 @@
+ 
+
+ (13) Find 5 new methods of List and String. 
+
+ANS: list methods: 
+
+updating list 
+
+sort method 
+
+isEmpty & isNotEmpty Method 
+
+Reversed Method 
+
+Add Methods 
+
+Remove Methods 

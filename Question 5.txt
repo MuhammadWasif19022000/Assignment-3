@@ -1,0 +1,27 @@
+(5)What are the data types supported in Dart? Explain with Examples.  
+
+Ans:DATA TYPES: 
+
+1.Number(INT, DOUBLE, NUM) 
+
+int age = 18 
+
+double temperature = 16.5 
+
+num age = 19 
+
+num temperature = 18.5 
+
+ 
+
+2.string 
+
+String name = “wasif” 
+
+String name = "karachi " 
+
+ 
+
+3.Booleans: (true/false) 
+
+ 

@@ -1,0 +1,33 @@
+(4)What is a difference between these operators “?? And?”  
+
+ANS: Conditional Expressions 
+
+Dart has two operators that let you evaluate expressions that might otherwise require ifelse statements  
+
+ 
+
+condition ? expr1 : expr2 
+
+If condition is true, then the expression evaluates expr1 (and returns its value); otherwise, it evaluates and returns the value of expr2. 
+
+ 
+
+expr1 ?? expr2 
+
+If expr1 is non-null, returns its value; otherwise, evaluates and returns the value of expr2 
+
+Example: 
+
+ 
+
+void main() {  
+
+   var a = null;  
+
+   var b = 12;  
+
+   var res = a ?? b;  
+
+   print(res);  
+
+} 
